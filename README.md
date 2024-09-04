@@ -13,9 +13,9 @@
 - **Colores en la Terminal**: Muestra el arte ASCII con colores en Termux.
 - **Fácil de Usar**: Simplemente ejecuta el script y disfruta del arte.
 
-![TORO-IP1](https://github.com/user-attachments/assets/c6de3f36-de28-448c-bebb-441944656041)
+![FOTO-IP2](https://github.com/user-attachments/assets/85e7101b-db86-42db-ae6a-90accc46a272)
 
-![TORO-IP2](https://github.com/user-attachments/assets/1c976080-d6d1-4bbb-84dd-3b1123ea5788)
+![FOTO-IP1](https://github.com/user-attachments/assets/4da3b0cb-21d1-4aeb-9d59-508aa8a130ea)
 
 
 ## Instalación
