@@ -24,7 +24,7 @@ Sigue estos pasos para instalar y ejecutar **TORO-IP** en tu terminal Termux:
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/TORO-IP.git
+    git clone https://github.com/maskelyne-net/TORO-IP.git
     ```
 
 2. Navega al directorio del proyecto:
