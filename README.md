@@ -1,6 +1,6 @@
 # TORO-IP
 
-!TORO-IP-LOGO.png
+! TORO-IP-LOGO.png
 
 ## Descripción
 
