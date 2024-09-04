@@ -1,6 +1,7 @@
 # TORO-IP
 
-! TORO-IP-LOGO.png
+![TORO-IP-LOGO](https://github.com/user-attachments/assets/fda1f9b4-d0d4-4877-87ce-887ae0143c5c)
+
 
 ## Descripción
 
@@ -12,8 +13,10 @@
 - **Colores en la Terminal**: Muestra el arte ASCII con colores en Termux.
 - **Fácil de Usar**: Simplemente ejecuta el script y disfruta del arte.
 
-!TORO-IP1.jpg
-!TORO-IP2.jpg
+![TORO-IP1](https://github.com/user-attachments/assets/c6de3f36-de28-448c-bebb-441944656041)
+
+![TORO-IP2](https://github.com/user-attachments/assets/1c976080-d6d1-4bbb-84dd-3b1123ea5788)
+
 
 ## Instalación
 
